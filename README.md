@@ -1,5 +1,7 @@
 # AHSIN
 
+**[Watch the three recorded AHSIN demos](https://github.com/mandozone/ahsin/releases/tag/media-2026-10-10)** — voice playback, executive console, and the earlier dashboard prototype. The gallery explains privacy edits and evidence limits.
+
 ## Ambient Human State Intelligence Network
 
 **An independent lab project by Romando Wright exploring sensor telemetry, Linux infrastructure, and permission-controlled AI tools.**

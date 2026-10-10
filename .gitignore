@@ -1,0 +1,29 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets*
+config.local.*
+*.local.toml
+
+# Runtime output and private captures
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.pcap
+*.pcapng
+private/
+raw/
+originals/
+backups/
+
+# Development output
+__pycache__/
+.venv/
+node_modules/
+dist/
+.DS_Store

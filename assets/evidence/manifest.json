@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "file": "timeout-investigation.jpg",
+      "sha256": "244955f5c5ea35689f21ea45041cbb2192db3c5e62507e42809db02bc90790b2",
+      "processing": "Original JPEG pixels retained; metadata removed"
+    },
+    {
+      "file": "historical-tests-365.jpg",
+      "sha256": "3c7c4f78e71442d8eb813c0a74e4aeeea2929425daab1251f41b0fad3294c94b",
+      "processing": "Original JPEG pixels retained; metadata removed; display orientation corrected"
+    }
+  ]
+}
